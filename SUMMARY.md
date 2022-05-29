@@ -27,4 +27,4 @@
 * [附件](fu-jian/README.md)
   * [\[苏州大学计算机科学与技术学院2022 年本科生转专业工作实施细则\](附件/苏州大学计算机科学与技术学院2022 年本科生转专业工作实施细则.md)](fu-jian/su-zhou-da-xue-ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan-2022-nian-ben-ke-sheng-zhuan-zhuan-ye-gong-zuo-s.md)
   * [苏州大学计算机科学与技术学院本科生转专业“专业特长生”认定标准](附件/苏州大学计算机科学与技术学院本科生转专业“专业特长生”认定标准.md)
-  * [\[苏州大学计算机科学与技术学院2022 年本科生转专业考试方案\](附件/苏州大学计算机科学与技术学院2022 年本科生转专业考试方案.md)](fu-jian/su-zhou-da-xue-ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan-2022-nian-ben-ke-sheng-zhuan-zhuan-ye-kao-shi-fa.md)
+  * [苏州大学计算机科学与技术学院2022 年本科生转专业考试方案](附件/苏州大学计算机科学与技术学院2022%20年本科生转专业考试方案.md)
