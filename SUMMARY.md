@@ -1,13 +1,15 @@
 # Table of contents
 
 * [前言](README.md)
-  * [联系方式](https://app.gitbook.com/s/4QVX0lwlJv1zztWcebdx/#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)
-  * [声明](https://app.gitbook.com/s/4QVX0lwlJv1zztWcebdx/#%E5%A3%B0%E6%98%8E)
-* [0 一些建议&牢骚](0-yi-xie-jian-yi-lao-sao/README.md)
-  * [笔者个人对计科院的简单评价](0-yi-xie-jian-yi-lao-sao/bi-zhe-ge-ren-dui-ji-ke-yuan-de-jian-dan-ping-jia.md)
+* [一些建议&牢骚](一些建议&牢骚/README.md)
+  * [笔者个人对计科院的简单评价](一些建议&牢骚/笔者个人对计科院的简单评价.md)
+  * [该不该卷计算机](一些建议&牢骚/该不该卷计算机.md)
+  * [我到底是不是真的「喜欢计算机」？什么样的人才「适合学计算机」](一些建议&牢骚/我到底是不是真的「喜欢计算机」？什么样的人才「适合学计算机」.md)
+  * [CS与SE——对计算机行业有一个大致的了解](一些建议&牢骚/CS与SE——对计算机行业有一个大致的了解.md)
+
 * [个人推荐书单](※个人推荐书单/README.md)
-  * [9.0 切入书单之前](※个人推荐书单/切入书单之前.md)
-  * [9.1 挑书](https://app.gitbook.com/s/4QVX0lwlJv1zztWcebdx/ge-ren-tui-jian-shu-dan#91-%E6%8C%91%E4%B9%A6)
+  * [切入书单之前](※个人推荐书单/切入书单之前.md)
+  * [购书指南](※个人推荐书单/购书指南.md)
   * [9.2 出版社](https://app.gitbook.com/s/4QVX0lwlJv1zztWcebdx/ge-ren-tui-jian-shu-dan#92-%E5%87%BA%E7%89%88%E7%A4%BE)
   * [9.3 阅读英文原版书籍](https://app.gitbook.com/s/4QVX0lwlJv1zztWcebdx/ge-ren-tui-jian-shu-dan#93-%E9%98%85%E8%AF%BB%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D)
   * [9.5 Python数据科学](https://app.gitbook.com/s/4QVX0lwlJv1zztWcebdx/ge-ren-tui-jian-shu-dan#95-Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6)
