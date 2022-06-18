@@ -1,6 +1,6 @@
 # 如何准备
 
-这方面内容大部分已在《[苏州大学转专业通用指南](https://github.com/Snowfly-T/SUDA-major-change-guide-universal)》有所提及，因此这一部分仅介绍和计科院转专业关联较大的内容。
+这方面内容大部分已在《[苏州大学 转专业通用指南](https://gaoge011022.gitbook.io/suda-major-change-guide-universal/)》有所提及，因此这一部分仅介绍和计科院转专业关联较大的内容。
 
 本节内容除第一小节“确定报名专业”面向所有同学之外，其他内容主要面向零基础的同学。有基础的同学可以选择性忽略一些过于基础的内容。
 
