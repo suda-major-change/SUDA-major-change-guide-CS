@@ -48,7 +48,9 @@ def twoSum(nums: List[int], target: int) -> List[int]:
 ```python3
 from typing import Callable, Iterable, Optional
 
-def reduceIntList(func: Callable[[int, int], int], nums: Iterable[int], start_value: Optional[int] = None) -> int:
+def reduce_int_list(func: Callable[[int, int], int],
+                    nums: Iterable[int],
+                    start_value: Optional[int] = None) -> int:
     if start_value is None:
         start_value = 0
     total = start_value # 编辑器可以通过类型推导得知total的类型为total，同样不必显式标注类型
